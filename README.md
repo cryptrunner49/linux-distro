@@ -4,7 +4,7 @@ Building a linux distro using the linux kernel v6.13 and busybox in debian.
 
 ## Cloning the repo
 ```
-git clone linux-distro
+git clone https://github.com/cryptrunner49/linux-distro
 git submodule update --init --recursive --depth 1
 ```
 
